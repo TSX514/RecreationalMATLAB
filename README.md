@@ -7,7 +7,7 @@ This repo contains various small coding projects using MATLAB to process audio i
 Sure, go nuts. Make sure you add a reference to this github reprository. 
 
 ## How do I make something interesting with this?
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
 Honestly, not sure. The best way to experiment with these functions is to run a peice of audio through it, add an effect, and then process the audio through the function again to reverse it. 
 
 ## Why?
