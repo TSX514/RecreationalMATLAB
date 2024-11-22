@@ -9,6 +9,8 @@
 % like distortion or reverb that introduces new sounds/harmonics and then  %
 % flip them, you can get some really interesting results.                  %
 %                                                                          %
+% There's a few demo files in the AudioExamples folder. Check 'em out!     %
+%                                                                          %
 % At somepoint, if I can work out how to make this work using a circular   %
 % buffer and do this in real-time, I'll make a .vst3/.au. For now have     %                                                           %                                                    
 % fun with this.                                                           %
