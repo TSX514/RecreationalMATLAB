@@ -1,0 +1,19 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                           UpsideDown.m                                 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This function takes an audio signal of your chosing and reverses the low %
+% and high frequency content. There's no other way of putting this other   %
+% than the fact that anything you put through here probably won't sound    %
+% good. That said, I'd reccomend inputting a sample, flipping it, applying %
+% an effect to the sample and then flipping it back. If you use something  %
+% like distortion or reverb that introduces new sounds/harmonics and then  %
+% flip them, you can get some really interesting results.                  %
+%                                                                          %
+% At somepoint, if I can work out how to make this work using a circular   %
+% buffer and do this in real-time, I'll make a .vst3/.au. For now have     %                                                           %                                                    
+% fun with this.                                                           %
+%                                                                          %
+% Written: 22/11/24                                                        %
+% Author: TSX514                                                           %
+% Email: tsx514@york.ac.uk                                                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
